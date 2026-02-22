@@ -1,4 +1,4 @@
-/* ================= GLOBAL ================= */
+/* GLOBAL  */
 
 * {
   margin: 0;
@@ -18,7 +18,7 @@ body {
   padding: 20px;
 }
 
-/* ================= NAVBAR ================= */
+/* NAVBAR */
 
 .navbar {
   background: #000000;
@@ -72,14 +72,14 @@ body {
   width: 100%;
 }
 
-/* ================= HEADINGS ================= */
+/*  HEADINGS */
 
 h1, h2 {
   margin-bottom: 20px;
   color: #ffd60a;
 }
 
-/* ================= GRID ================= */
+/* GRID  */
 
 .grid {
   display: grid;
@@ -88,7 +88,7 @@ h1, h2 {
   margin-top: 20px;
 }
 
-/* ================= CARD ================= */
+/*  CARD  */
 
 .card {
   background: #1c1c1c;
@@ -131,7 +131,7 @@ h1, h2 {
   background: #ffcc00;
 }
 
-/* ================= SEARCH INPUT ================= */
+/*  SEARCH INPUT  */
 
 input[type="text"],
 input[type="number"] {
@@ -151,7 +151,7 @@ input:focus {
   border-color: #ffd60a;
 }
 
-/* ================= BUTTON ================= */
+/*BUTTON */
 
 button {
   background: #ffd60a;
@@ -168,7 +168,7 @@ button:hover {
   background: #ffcc00;
 }
 
-/* ================= CATEGORY TAGS ================= */
+/*  CATEGORY TAGS  */
 
 .category-list {
   display: flex;
@@ -192,7 +192,7 @@ button:hover {
   color: #000;
 }
 
-/* ================= 404 PAGE ================= */
+/*  404 PAGE  */
 
 .notfound {
   text-align: center;
@@ -215,7 +215,7 @@ button:hover {
   font-weight: bold;
 }
 
-/* ================= RESPONSIVE ================= */
+/*  RESPONSIVE  */
 
 @media (max-width: 768px) {
   .navbar {
