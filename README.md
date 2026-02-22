@@ -104,7 +104,7 @@ Follow these steps to run the project locally:
 
 ```bash
 git clone https://github.com/man-sol/onlineLibrary.git
-cd online-library
+
 ```
 
 If you already downloaded the project, simply open the project folder.
