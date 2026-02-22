@@ -115,9 +115,7 @@ If you already downloaded the project, simply open the project folder.
 
 ```bash
 npm install
-```
 
----
 
 ## 3️⃣ Start Development Server
 
